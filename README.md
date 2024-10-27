@@ -1,6 +1,6 @@
 ## Hi! Welcome to my Github, I'm Locus 👋
 
-My name is Locus, and I’m currently a high school student based in Eastern, Saudi Arabia. I have a keen interest in both physics and Computer Science, Physics fascinates me, and I find it incredibly interesting to explore the fundamental principles that govern our universe.
+My name is Locus, and I’m currently a high school student based in Eastern, Saudi Arabia. I have a keen interest in both physics and computer science, Physics fascinates me, and I find it incredibly interesting to explore the fundamental principles that govern our universe.
 
 In addition to my academic interests, I enjoy discussing technology-related topics, such as internet speed and advancements in tech. I’m also curious about game development and modding, particularly in Tech like Operating Systems.
 
